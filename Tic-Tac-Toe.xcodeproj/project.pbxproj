@@ -13,6 +13,7 @@
 		9E31570128D3308800F21C3D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E3156FF28D3308800F21C3D /* Main.storyboard */; };
 		9E31570328D3308900F21C3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E31570228D3308900F21C3D /* Assets.xcassets */; };
 		9E31570628D3308900F21C3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E31570428D3308900F21C3D /* LaunchScreen.storyboard */; };
+		9E31570E28D330A500F21C3D /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E31570D28D330A500F21C3D /* GameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9E31570228D3308900F21C3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E31570528D3308900F21C3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9E31570728D3308900F21C3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E31570D28D330A500F21C3D /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				9E3156F928D3308800F21C3D /* AppDelegate.swift */,
 				9E3156FB28D3308800F21C3D /* SceneDelegate.swift */,
 				9E3156FD28D3308800F21C3D /* ViewController.swift */,
+				9E31570D28D330A500F21C3D /* GameViewController.swift */,
 				9E3156FF28D3308800F21C3D /* Main.storyboard */,
 				9E31570228D3308900F21C3D /* Assets.xcassets */,
 				9E31570428D3308900F21C3D /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E31570E28D330A500F21C3D /* GameViewController.swift in Sources */,
 				9E3156FE28D3308800F21C3D /* ViewController.swift in Sources */,
 				9E3156FA28D3308800F21C3D /* AppDelegate.swift in Sources */,
 				9E3156FC28D3308800F21C3D /* SceneDelegate.swift in Sources */,
